@@ -1,13 +1,13 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: 'YOUR_API_KEY',
-    authDomain: 'YOUR_AUTH_DOMAIN',
-    projectId: 'YOUR_PROJECT_ID',
-    storageBucket: 'YOUR_STORAGE_BUCKET',
-    messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
-    appId: 'YOUR_APP_ID',
-    measurementId: 'YOUR_MEASUREMENT_ID',
+    apiKey: "AIzaSyBIfIPscdOCGXm6t0hOsKsA1c72D7J5Zt0",
+    authDomain: "netlix-mern.firebaseapp.com",
+    projectId: "netlix-mern",
+    storageBucket: "netlix-mern.appspot.com",
+    messagingSenderId: "779994311329",
+    appId: "1:779994311329:web:61e5d96918c6d53a785ee0",
+    measurementId: "G-B43F8D93DL",
   },
-  serverUrl: 'YOUR_PRODUCTION_SERVER_URL',
+  serverUrl: 'http://localhost:3000',
 };
