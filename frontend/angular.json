@@ -157,6 +157,7 @@
   },
   "defaultProject": "frontend",
   "cli": {
+    "analytics": "691e4650-cd4a-4105-a783-ac6ee5cdb297",
     "defaultCollection": "@ngrx/schematics"
   }
 }
